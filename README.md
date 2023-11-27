@@ -66,7 +66,6 @@ OpenCV-Python là một thư viện mà các nhà phát triển sử dụng đ�
 **- Keras:**
 
 Keras là thư viện mạng nơ-ron chuyên sâu của Python với khả năng hỗ trợ tuyệt vời cho việc xử lý dữ liệu, trực quan hóa và hơn thế nữa. Keras hỗ trợ nhiều mạng nơ-ron. Thư viện này có cấu trúc mô-đun mang lại sự linh hoạt cho việc lập trình các ứng dụng sáng tạo.
-
 ## Một số framework Python nổi tiếng?
 **Django**: Django là một trong những framework web Python full-stack được sử dụng rộng rãi nhất để phát triển các ứng dụng web trên quy mô lớn. Framework này cung cấp một số tính năng hữu ích, bao gồm một máy chủ web để phát triển và kiểm thử, một công cụ mẫu để xây dựng giao diện người dùng của trang web và nhiều cơ chế bảo mật khác.
 
@@ -77,4 +76,36 @@ Keras là thư viện mạng nơ-ron chuyên sâu của Python với khả năng
 **Apache MXNet**: Apache MXNet là một khung học sâu nhanh, linh hoạt và có thể điều chỉnh quy mô được các nhà phát triển sử dụng để xây dựng những nguyên mẫu nghiên cứu và ứng dụng học sâu. Khung này hỗ trợ nhiều ngôn ngữ lập trình, bao gồm Java, C++, R và Perl. Nó cung cấp một bộ công cụ cũng như thư viện phong phú để hỗ trợ phát triển. Ví dụ: bạn có thể tìm thấy một cuốn sách tương tác về máy học (ML), bộ công cụ thị giác máy tính và các mô hình học sâu dành cho Xử lý ngôn ngữ tự nhiên (NLP) để xử lý ngôn ngữ tự nhiên, chẳng hạn như văn bản và lời nói.
 
 **PyTorch**: PyTorch là một khung cho ML được xây dựng dựa trên thư viện Torch, một thư viện ML nguồn mở khác.  Các nhà phát triển sử dụng khung này cho những ứng dụng như NLP, robot và thị giác máy tính, tìm kiếm thông tin có ý nghĩa từ hình ảnh và video. Họ cũng sử dụng PyTorch để chạy những ứng dụng đó bằng CPU và GPU.
+##Python IDE là gì?
+Môi trường phát triển tích hợp (IDE) là phần mềm cung cấp cho các nhà phát triển công cụ duy nhất họ cần để viết, chỉnh sửa, kiểm tra và gỡ lỗi mã.
 
+**Một số Python IDE phổ biến nhất?**
+
+**PyCharm:** JetBrains, một công ty phát triển công cụ phần mềm tại Séc, đã tạo ra PyCharm. Nó có một phiên bản cộng đồng miễn phí phù hợp với các ứng dụng Python nhỏ và một phiên bản chuyên nghiệp trả phí dành cho việc xây dựng các ứng dụng Python quy mô lớn, với đầy đủ những tính năng sau:
+- Tự động hoàn thành và kiểm tra mã
+- Xử lý lỗi và sửa lỗi nhanh chóng
+- Làm sạch mã mà không thay đổi chức năng
+- Hỗ trợ các khung ứng dụng web như Django và Flask
+- Hỗ trợ các ngôn ngữ lập trình khác, chẳng hạn như JavaScript, CoffeeScript, TypeScript, AngularJS và Node
+- Các công cụ và thư viện khoa học như Matplotlib và NumPy
+- Khả năng chạy, gỡ lỗi, kiểm thử và triển khai các ứng dụng trong máy ảo từ xa
+- Trình gỡ lỗi để tìm lỗi trong mã, trình kiểm tra để xác định các vấn đề về hiệu suất trong mã và trình chạy thử nghiệm để chạy các bài kiểm thử đơn vị
+- Hỗ trợ cơ sở dữ liệu
+**IDLE:** Môi trường phát triển và học hỏi tích hợp (IDLE) là Python IDE được cài đặt theo mặc định. Nó chỉ được phát triển với Python bằng bộ công cụ Tkinter GUI và cung cấp các tính năng sau:
+- Hoạt động trên nhiều hệ điều hành như Windows, Unix và macOS
+- Cung cấp một cửa sổ shell để chạy các lệnh và hiển thị kết quả
+- Cung cấp trình soạn thảo văn bản trên nhiều cửa sổ với khả năng đánh dấu cú pháp mã và hoàn thành mã tự động
+- Có trình gỡ lỗi riêng 
+**Spyder:** Spyder là một IDE nguồn mở được nhiều nhà khoa học và nhà phân tích dữ liệu sử dụng. Nó cung cấp trải nghiệm phát triển toàn diện với các tính năng phân tích dữ liệu nâng cao, trực quan hóa dữ liệu và gỡ lỗi. Spyder cũng bao gồm các tính năng sau:
+- Trình chỉnh sửa mã hỗ trợ nhiều ngôn ngữ
+- Bảng điều khiển IPython tương tác
+- Trình gỡ lỗi cơ bản
+- Thư viện khoa học như Matplotlib, SciPy và NumPy
+- Khả năng khám phá các biến trong mã
+- Khả năng xem tài liệu trong thời gian thực
+**Atom:** Atom là một trình soạn thảo miễn phí do GitHub phát triển, hỗ trợ viết mã bằng nhiều ngôn ngữ lập trình, bao gồm cả Python. Sử dụng Atom, các nhà phát triển có thể trực tiếp làm việc với GitHub, trang web nơi bạn có thể lưu mã của mình một cách tập trung. Atom cung cấp các tính năng sau:
+- Khả năng hoạt động trên nhiều hệ điều hành
+- Dễ dàng cài đặt hoặc tạo các gói mới
+- Hoàn thành mã tự động nhanh chóng hơn
+- Khả năng tìm kiếm tệp và dự án
+- Tùy chỉnh giao diện dễ dàng
