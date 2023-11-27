@@ -19,4 +19,22 @@ Python thường được sử dụng để phát triển trang web và phần m
 - Phân tích dữ liệu và học máy
 - Phát triển web
 - Tự động hoá và phát triển phần mềm
-
+## Đặc tính của Python
+**Python đang trở nên phổ biến trong cộng đồng lập trình nhờ có các đặc tính sau:**
+- Ngôn ngữ thông dịch: Python được xử lý trong thời gian chạy bởi Trình thông dịch Python.
+- Ngôn ngữ hướng đối tượng: Nó hỗ trợ các tính năng và kỹ thuật lập trình hướng đối tượng.
+- Ngôn ngữ lập trình tương tác: Người dùng có thể tương tác trực tiếp với trình thông dịch python để viết chương trình.
+- Ngôn ngữ dễ học: Python rất dễ học, đặc biệt là cho người mới bắt đầu.
+- Cú pháp đơn giản: Việc hình thành cú pháp Python rất đơn giản và dễ hiểu, điều này cũng làm cho nó trở nên phổ biến.
+- Dễ đọc: Mã nguồn Python được xác định rõ ràng và có thể nhìn thấy bằng mắt.
+- Di động: Mã Python có thể chạy trên nhiều nền tảng phần cứng có cùng giao diện.
+- Có thể mở rộng: Người dùng có thể thêm các mô-đun cấp thấp vào trình thông dịch Python.
+- Có thể cải tiến: Python cung cấp một cấu trúc cải tiến để hỗ trợ các chương trình lớn sau đó là shell-script.
+## Tại sao ngôn ngữ lập trình Python vô cùng phổ biến
+**Python phổ biến vì nhiều lý do. Dưới đây là một cái nhìn sâu sắc hơn về những gì làm cho nó trở nên linh hoạt và dễ sử dụng cho các lập trình viên:**
+- Nó có cú pháp đơn giản bắt chước ngôn ngữ tự nhiên nên dễ đọc và dễ hiểu hơn. Điều này giúp xây dựng các dự án nhanh hơn và cải thiện chúng tốt hơn.
+- Nó linh hoạt. Python có thể được sử dụng cho nhiều tác vụ khác nhau, từ phát triển web đến học máy.
+- Nó thân thiện với người mới bắt đầu, khiến Python trở nên phổ biến đối với các lập trình viên mới vào nghề.
+- Python là mã nguồn mở, có nghĩa là nó được sử dụng và phân phối miễn phí, kể cả cho mục đích thương mại.
+- Kho lưu trữ các mô-đun và thư viện của Python—các gói mã mà người dùng bên thứ ba đã tạo để mở rộng khả năng của Python—rất rộng lớn và đang phát triển.
+- Python có một cộng đồng lớn và tích cực đóng góp vào kho mô-đun và thư viện của Python, đồng thời hoạt động như một nguồn tài nguyên hữu ích cho các lập trình viên khác. Cộng đồng hỗ trợ rộng lớn có nghĩa là nếu các lập trình viên gặp khó khăn, việc tìm ra giải pháp là tương đối dễ dàng; ai đó chắc chắn cũng đã gặp phải vấn đề tương tự trước đây.
