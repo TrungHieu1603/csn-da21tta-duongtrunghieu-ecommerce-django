@@ -66,3 +66,15 @@ OpenCV-Python là một thư viện mà các nhà phát triển sử dụng đ�
 **- Keras:**
 
 Keras là thư viện mạng nơ-ron chuyên sâu của Python với khả năng hỗ trợ tuyệt vời cho việc xử lý dữ liệu, trực quan hóa và hơn thế nữa. Keras hỗ trợ nhiều mạng nơ-ron. Thư viện này có cấu trúc mô-đun mang lại sự linh hoạt cho việc lập trình các ứng dụng sáng tạo.
+
+## Một số framework Python nổi tiếng?
+**Django**: Django là một trong những framework web Python full-stack được sử dụng rộng rãi nhất để phát triển các ứng dụng web trên quy mô lớn. Framework này cung cấp một số tính năng hữu ích, bao gồm một máy chủ web để phát triển và kiểm thử, một công cụ mẫu để xây dựng giao diện người dùng của trang web và nhiều cơ chế bảo mật khác.
+
+**Flask**: Flask là một framework micro được sử dụng để phát triển các ứng dụng web nhỏ. Các đặc điểm của framework này bao gồm sự hỗ trợ nhiệt tình từ cộng đồng, tài liệu hữu ích, công cụ mẫu, tính năng kiểm thử đơn vị và máy chủ web được tích hợp sẵn. Nó cũng cung cấp các tiện ích mở rộng để hỗ trợ xác thực, các lớp ánh xạ cơ sở dữ liệu và bảo mật web.
+
+**TurboGears**: TurboGears là một framework được thiết kế để xây dựng các ứng dụng web một cách nhanh chóng và dễ dàng hơn. 
+
+**Apache MXNet**: Apache MXNet là một khung học sâu nhanh, linh hoạt và có thể điều chỉnh quy mô được các nhà phát triển sử dụng để xây dựng những nguyên mẫu nghiên cứu và ứng dụng học sâu. Khung này hỗ trợ nhiều ngôn ngữ lập trình, bao gồm Java, C++, R và Perl. Nó cung cấp một bộ công cụ cũng như thư viện phong phú để hỗ trợ phát triển. Ví dụ: bạn có thể tìm thấy một cuốn sách tương tác về máy học (ML), bộ công cụ thị giác máy tính và các mô hình học sâu dành cho Xử lý ngôn ngữ tự nhiên (NLP) để xử lý ngôn ngữ tự nhiên, chẳng hạn như văn bản và lời nói.
+
+**PyTorch**: PyTorch là một khung cho ML được xây dựng dựa trên thư viện Torch, một thư viện ML nguồn mở khác.  Các nhà phát triển sử dụng khung này cho những ứng dụng như NLP, robot và thị giác máy tính, tìm kiếm thông tin có ý nghĩa từ hình ảnh và video. Họ cũng sử dụng PyTorch để chạy những ứng dụng đó bằng CPU và GPU.
+
