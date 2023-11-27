@@ -91,11 +91,13 @@ Môi trường phát triển tích hợp (IDE) là phần mềm cung cấp cho c
 - Khả năng chạy, gỡ lỗi, kiểm thử và triển khai các ứng dụng trong máy ảo từ xa
 - Trình gỡ lỗi để tìm lỗi trong mã, trình kiểm tra để xác định các vấn đề về hiệu suất trong mã và trình chạy thử nghiệm để chạy các bài kiểm thử đơn vị
 - Hỗ trợ cơ sở dữ liệu
+
 **IDLE:** Môi trường phát triển và học hỏi tích hợp (IDLE) là Python IDE được cài đặt theo mặc định. Nó chỉ được phát triển với Python bằng bộ công cụ Tkinter GUI và cung cấp các tính năng sau:
 - Hoạt động trên nhiều hệ điều hành như Windows, Unix và macOS
 - Cung cấp một cửa sổ shell để chạy các lệnh và hiển thị kết quả
 - Cung cấp trình soạn thảo văn bản trên nhiều cửa sổ với khả năng đánh dấu cú pháp mã và hoàn thành mã tự động
-- Có trình gỡ lỗi riêng 
+- Có trình gỡ lỗi riêng
+
 **Spyder:** Spyder là một IDE nguồn mở được nhiều nhà khoa học và nhà phân tích dữ liệu sử dụng. Nó cung cấp trải nghiệm phát triển toàn diện với các tính năng phân tích dữ liệu nâng cao, trực quan hóa dữ liệu và gỡ lỗi. Spyder cũng bao gồm các tính năng sau:
 - Trình chỉnh sửa mã hỗ trợ nhiều ngôn ngữ
 - Bảng điều khiển IPython tương tác
@@ -103,6 +105,7 @@ Môi trường phát triển tích hợp (IDE) là phần mềm cung cấp cho c
 - Thư viện khoa học như Matplotlib, SciPy và NumPy
 - Khả năng khám phá các biến trong mã
 - Khả năng xem tài liệu trong thời gian thực
+
 **Atom:** Atom là một trình soạn thảo miễn phí do GitHub phát triển, hỗ trợ viết mã bằng nhiều ngôn ngữ lập trình, bao gồm cả Python. Sử dụng Atom, các nhà phát triển có thể trực tiếp làm việc với GitHub, trang web nơi bạn có thể lưu mã của mình một cách tập trung. Atom cung cấp các tính năng sau:
 - Khả năng hoạt động trên nhiều hệ điều hành
 - Dễ dàng cài đặt hoặc tạo các gói mới
