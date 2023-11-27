@@ -40,6 +40,7 @@ Python thường được sử dụng để phát triển trang web và phần m
 - Python có một cộng đồng lớn và tích cực đóng góp vào kho mô-đun và thư viện của Python, đồng thời hoạt động như một nguồn tài nguyên hữu ích cho các lập trình viên khác. Cộng đồng hỗ trợ rộng lớn có nghĩa là nếu các lập trình viên gặp khó khăn, việc tìm ra giải pháp là tương đối dễ dàng; ai đó chắc chắn cũng đã gặp phải vấn đề tương tự trước đây.
 ## Thư viện Python là gì?
 Thư viện là một tập hợp các mã thường xuyên được sử dụng mà các nhà phát triển có thể bao gồm trong những chương trình Python của họ để không phải lập trình từ đầu. Theo mặc định, Python đi kèm với Thư viện chuẩn, chứa rất nhiều các hàm có thể tái sử dụng. Ngoài ra, hơn 137.000 thư viện Python có sẵn cho các ứng dụng khác nhau, bao gồm phát triển web, khoa học dữ liệu và máy học (ML).
+
 **Thư viện Python nào phổ biến nhất?**
 - Matplotlib
 Các nhà phát triển sử dụng Matplotlib để hiển thị dữ liệu dưới dạng đồ họa hai và ba chiều (2D và 3D) chất lượng cao. Thư viện này thường được sử dụng trong các ứng dụng khoa học. Với Matplotlib, bạn có thể trực quan hóa dữ liệu bằng cách hiển thị dữ liệu dưới dạng các biểu đồ khác nhau, chẳng hạn như biểu đồ cột và biểu đồ đường. Bạn cũng có thể hiển thị nhiều biểu đồ cùng lúc và các chi tiết đồ họa có thể được di chuyển qua mọi nền tảng.
