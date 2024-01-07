@@ -1,4 +1,4 @@
-# csn-da21tta-duongtrunghieu-resume-django
+# csn-da21tta-duongtrunghieu-django
 # Tìm hiểu về Python
 ## Python là gì?
 Python là ngôn ngữ lập trình máy tính bậc cao thường được sử dụng để xây dựng trang web và phần mềm, tự động hóa các tác vụ và tiến hành phân tích dữ liệu. Python là ngôn ngữ có mục đích chung, nghĩa là nó có thể được sử dụng để tạo nhiều chương trình khác nhau và không chuyên biệt cho bất kỳ vấn đề cụ thể nào.
